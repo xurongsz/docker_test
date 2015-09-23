@@ -1,1 +1,1 @@
-FROM daocloud.io/xurongsz/test
+FROM ubuntu
