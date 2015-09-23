@@ -1,1 +1,1 @@
-FROM test
+FROM daocloud.io/xurongsz/test
